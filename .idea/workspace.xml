@@ -10,7 +10,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hKAinlfBR1l4HclyIGaxc3mI0C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,7 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager">
     <configuration name="demo.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/demo.js" working-dir="$PROJECT_DIR$">
@@ -39,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599749539862</updated>
-      <workItem from="1599749540987" duration="693000" />
+      <workItem from="1599749540987" duration="1690000" />
     </task>
     <servers />
   </component>
@@ -51,17 +55,37 @@
       <screen x="0" y="23" width="1792" height="1045" />
     </state>
     <state x="473" y="207" key="DBNavigator.ProjectSettingsDialog/0.23.1792.1045@0.23.1792.1045" timestamp="1599750144081" />
-    <state x="364" y="160" key="SettingsEditor" timestamp="1599750244694">
+    <state width="1588" height="409" key="GridCell.Tab.0.bottom" timestamp="1599750397594">
       <screen x="0" y="23" width="1792" height="1045" />
     </state>
-    <state x="364" y="160" key="SettingsEditor/0.23.1792.1045@0.23.1792.1045" timestamp="1599750244694" />
+    <state width="1588" height="409" key="GridCell.Tab.0.bottom/0.23.1792.1045@0.23.1792.1045" timestamp="1599750397594" />
+    <state width="1588" height="409" key="GridCell.Tab.0.center" timestamp="1599750397593">
+      <screen x="0" y="23" width="1792" height="1045" />
+    </state>
+    <state width="1588" height="409" key="GridCell.Tab.0.center/0.23.1792.1045@0.23.1792.1045" timestamp="1599750397593" />
+    <state width="1588" height="409" key="GridCell.Tab.0.left" timestamp="1599750397593">
+      <screen x="0" y="23" width="1792" height="1045" />
+    </state>
+    <state width="1588" height="409" key="GridCell.Tab.0.left/0.23.1792.1045@0.23.1792.1045" timestamp="1599750397593" />
+    <state width="1588" height="409" key="GridCell.Tab.0.right" timestamp="1599750397593">
+      <screen x="0" y="23" width="1792" height="1045" />
+    </state>
+    <state width="1588" height="409" key="GridCell.Tab.0.right/0.23.1792.1045@0.23.1792.1045" timestamp="1599750397593" />
+    <state x="434" y="56" key="SettingsEditor" timestamp="1599750384269">
+      <screen x="0" y="23" width="1792" height="1045" />
+    </state>
+    <state x="434" y="56" key="SettingsEditor/0.23.1792.1045@0.23.1792.1045" timestamp="1599750384269" />
+    <state x="206" y="123" width="1430" height="845" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599751262697">
+      <screen x="0" y="23" width="1792" height="1045" />
+    </state>
+    <state x="206" y="123" width="1430" height="845" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1792.1045@0.23.1792.1045" timestamp="1599751262697" />
     <state x="634" y="284" width="602" height="522" key="find.popup" timestamp="1599750089799">
       <screen x="0" y="23" width="1792" height="1045" />
     </state>
     <state x="634" y="284" width="602" height="522" key="find.popup/0.23.1792.1045@0.23.1792.1045" timestamp="1599750089799" />
-    <state x="519" y="255" width="670" height="676" key="search.everywhere.popup" timestamp="1599750171994">
+    <state x="519" y="255" width="670" height="676" key="search.everywhere.popup" timestamp="1599751255754">
       <screen x="0" y="23" width="1792" height="1045" />
     </state>
-    <state x="519" y="255" width="670" height="676" key="search.everywhere.popup/0.23.1792.1045@0.23.1792.1045" timestamp="1599750171994" />
+    <state x="519" y="255" width="670" height="676" key="search.everywhere.popup/0.23.1792.1045@0.23.1792.1045" timestamp="1599751255754" />
   </component>
 </project>
